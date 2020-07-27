@@ -1,0 +1,75 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 140%;
+    text-align: center;
+    background: url('https://image.shutterstock.com/image-illustration/hearts-valentines-day-abstract-background-260nw-566786134.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header h1 {
+    color: #ff4893;
+}
+
+header {
+    width: 80%;
+    background: rgba(255,255,255,0.95);
+    color: #333;
+    padding: 3%;
+    margin: 0 auto;
+}
+
+#main {
+    width: 80%;
+    background: rgba(255,255,255,0.95);
+    padding: 3%;
+    margin: 0 auto;
+}
+
+input[type=text] {
+    display: inline-block;
+    padding: 20px;
+    border-radius: 15px;
+    border: none;
+    font-size: 110%;
+}
+
+
+#add {
+    display: inline-block;
+    margin: 20px;
+    font-size: 200%;
+}
+
+#calc {
+    padding: 1%;
+    width: 20%;
+    font-size: 120%;
+    border-radius: 10px;
+    color: #fff;
+    border: none;
+    background: #ff4893;
+}
+
+#button {
+    margin-top:  50px;
+}
+
+footer {
+    width: 80%;
+    padding: 3%;
+    background: rgba(255,255,255,0.95);
+    margin: auto;
+}
+
+#output {
+    color: #ff4893;
+    font-size: 200%;
+    height: 50px;
+}
+
+.heart {
+    color: #ff4893;
+}
